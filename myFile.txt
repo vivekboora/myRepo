@@ -6,3 +6,4 @@ this is a new file in myRepo
 adding commit three here
 adding commit four here
 adding commit five here
+adding commit six here
